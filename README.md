@@ -5,14 +5,14 @@ A sample web app that lets you use your site as an airhorn.
 It demonstrates simple offline usage combined with simple audio looping via web audio.
 
 ## 1. Go to https://puhornpwa.netlify.com/
-[first step](1.PNG)
+![first step](1.PNG)
 *click/tap the horn!*
 
 ## 2. Turn off your internet connection
-[second step](2.PNG)
+![second step](2.PNG)
 
 ## 3. Reload the page, it's still there!
-[third step](4.PNG)
+![third step](4.PNG)
 
 ## License
 
